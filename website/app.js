@@ -84,4 +84,5 @@ async function updateUI(){
       //Log an error and say which error is it
       console.log("Error:"+error)
    }
+   
 }

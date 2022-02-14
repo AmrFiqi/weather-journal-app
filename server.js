@@ -24,6 +24,7 @@ app.use(cors());
 app.use(express.static('website'));
 
 
+
 // Setup Server
 // Initiating the port that the server will run on (5500 as it is the same port used by live server extension)
 const port = 5500;
